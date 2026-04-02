@@ -51,6 +51,10 @@ Nomenclatura seguindo design patterns: prefixos `ft_`, `dim_`, `sk_`, `nk_`, `md
 - **Clientes:** Análise geográfica por estado/cidade, correlação entre faturamento e frequência de compra, ranking de clientes
 - **Produtos:** Faturamento por categoria (Hardware, Software, Computadores), série temporal por categoria, ticket médio por produto
 
+## Dashboard
+
+[Acesse o dashboard interativo aqui](https://app.fabric.microsoft.com/groups/me/reports/91939b11-178a-4831-909e-0e7c05f6b80b/7996e47b5c52eb5607c0?experience=fabric-developer)
+
 ---
 
 ## Tecnologias
